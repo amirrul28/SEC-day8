@@ -1,0 +1,35 @@
+* {
+  margin: o;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: monospace;
+  background-color: #f0f0f0;
+}
+section {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px 0;
+}
+.title {
+  background-color: red;
+  color: green;
+}
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid rgb(110, 108, 108);
+  border-radius: 5px;
+}
+button {
+  font-family: monospace;
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: rgb(124, 124, 248);
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
